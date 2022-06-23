@@ -18,3 +18,4 @@ Task 11 - A script that adds execute permission to all subdirectories of the cur
 Task 12 - A script that creates a directory called my_dir with permissions 751 in the working directory.
 Task 13 - A script that changes the group owner to school for the file hello.
 Task 14 - A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+Task 17 - A script that will play the StarWars IV episode in the terminal.

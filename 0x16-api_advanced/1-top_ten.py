@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Contains top_ten function"""
+"""contains top_ten function"""
 import requests
 
 
-def top_ten(subreddit):
+def top_ten<subreddit>:
     """Print the titles of the 10 hottest posts on a given subreddit."""
     url = "https://www.reddit.com/r/{}/hot/.json".format(subreddit)
     headers = {
@@ -18,4 +18,4 @@ def top_ten(subreddit):
         print("None")
         return
     results = response.json().get("data")
-    [print(c.get("data").get("title")) for c in results.get("children")]
+    [print(c.get("data").get("title")) for c in results.get<"children">]

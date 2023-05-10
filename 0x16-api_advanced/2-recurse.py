@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-
-"""queries the Reddit API and returns all articles of a given subreddit"""
+""" queries the Reddit API and returns all articles of a given subreddit"""
 
 import requests
 

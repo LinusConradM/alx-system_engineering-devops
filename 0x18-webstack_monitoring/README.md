@@ -1,1 +1,1 @@
-EADME
+Read me
